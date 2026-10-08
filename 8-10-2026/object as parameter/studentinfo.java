@@ -12,7 +12,7 @@ class studentFactory{
     }
 }
 
-public class bank{
+public class studentinfo{
     public static void main (String[]args){
 
         studentFactory h = new studentFactory();
